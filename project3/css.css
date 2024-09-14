@@ -1,0 +1,111 @@
+body{
+    background-color: white;
+}
+
+nav{
+    background-color:peachpuff;
+    margin:20px;
+    padding:10px;
+    position:sticky;
+    
+}
+ul,h1,li{
+    display:inline;
+    
+}
+li{
+    margin-left: 10px;
+}
+ul{
+    margin-left: 65%;
+}
+h1{
+    margin-left:20px;
+}
+li:hover{
+    color:brown;
+}
+input{
+    width: 40%;
+    height:5vh;
+    border-radius: 30px;
+    padding:5px;
+    background-color:white;
+    margin-top: 20px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin:left;
+    border-color: black;
+    margin-bottom: 15px;
+  }
+  .two{
+    margin-top:40px;
+    margin-bottom: 20PX;
+  }
+  .three{
+    margin-top:40px;
+    background-color: peachpuff;
+    color:black;
+    display:inline;
+    padding:4px;
+  }
+  .box{
+    margin-top: 10px;
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:320px;
+    padding:5px;
+
+  }
+  button{
+    align-items: center;
+    background-color: Green;
+    color:white;
+  }
+  h6{
+    color:red;
+    text-decoration-style: wavy;
+  }
+
+  .box2{
+    margin-top: 10px;
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:320px;
+    padding:5px;
+  }
+  .box3{
+    margin-top: 10px;
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:320px;
+    padding:5px;
+  }
+  .box4{
+    margin-top: 10px;
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:320px;
+    padding:5px;
+  }
+  h2{
+    text-align: center;
+  }
+   .contact{
+    background-color:peachpuff;
+    margin:20px;
+    padding:10px;
+    position:sticky;
+   }
+   p{
+    text-align: center;
+   }
